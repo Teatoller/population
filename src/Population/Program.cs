@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace Population
+namespace Population.ReadAllCountries
 {
     class Program
     {
@@ -9,7 +10,7 @@ namespace Population
             string filePath = @"Popular Indicators/91aff299-f948-4300-b856-816274042579_Data.csv";
             CsvReader reader = new CsvReader(filePath);
 
-            Country[] countries = reader.ReadFirstNCountries(10);
+            List<Country> countries = reader.ReadAllCountries();
 
             foreach (Country country in countries)
             {
