@@ -1,0 +1,13 @@
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/bin/Debug/netcoreapp3.1/Population
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/bin/Debug/netcoreapp3.1/Population.deps.json
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/bin/Debug/netcoreapp3.1/Population.runtimeconfig.json
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/bin/Debug/netcoreapp3.1/Population.runtimeconfig.dev.json
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/bin/Debug/netcoreapp3.1/Population.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/bin/Debug/netcoreapp3.1/Population.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/obj/Debug/netcoreapp3.1/Population.csprojAssemblyReference.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/obj/Debug/netcoreapp3.1/Population.AssemblyInfoInputs.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/obj/Debug/netcoreapp3.1/Population.AssemblyInfo.cs
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/obj/Debug/netcoreapp3.1/Population.csproj.CoreCompileInputs.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/obj/Debug/netcoreapp3.1/Population.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/obj/Debug/netcoreapp3.1/Population.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/population/src/Population/obj/Debug/netcoreapp3.1/Population.genruntimeconfig.cache
